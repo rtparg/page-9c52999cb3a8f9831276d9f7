@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "17c5c2495b3fade9be58d16d",
+  "owner": "rtparg",
+  "repo": "page-9c52999cb3a8f9831276d9f7",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9c52999cb3a8f9831276d9f7",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d08490e9127ae9441fad2af0bad35217185b53ad0cf268face3dc5198589125d",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评提供专业的VPN网络加速服务，包括基础版、旗舰版、团队版。支持高速流量、流媒体解锁，官网客户端下载，帮助您畅享X机场网络加速。",
+          "AI_DESCRIPTION": "机场测评提供专业的VPN网络加速服务，包括基础版、旗舰版、团队版。支持高速流量、流媒体解锁，官网客户端下载，帮助您畅享X机场网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body {\n    font-family: 'Helvetica Neue', Arial, sans-serif;\n    margin: 0;\n    padding: 0;\n    background-color: #f8f9fa;\n    color: #333;\n    line-height: 1.6;\n  }\n  header {\n    background-color: #0A2540;\n    color: white;\n    padding: 1rem 0;\n  }\n  nav {\n    max-width: 1200px;\n    margin: 0 auto;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n  }\n  .logo {\n    font-size: 1.5rem;\n    font-weight: bold;\n  }\n  nav a {\n    color: white;\n    text-decoration: none;\n    margin-left: 2rem;\n  }\n  main {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 2rem 1rem;\n  }\n  h1 {\n    color: #0A2540;\n    font-size: 2.5rem;\n    text-align: center;\n    margin-bottom: 1rem;\n  }\n  h2 {\n    color: #003366;\n    font-size: 1.8rem;\n    margin-top: 2rem;\n  }\n  p {\n    font-size: 1rem;\n    margin-bottom: 1rem;\n  }\n  ul {\n    list-style: none;\n    padding: 0;\n  }\n  li {\n    padding: 0.5rem 0;\n    border-bottom: 1px solid #eee;\n  }\n  .price {\n    font-size: 1.2rem;\n    color: #00BFFF;\n    font-weight: bold;\n  }\n  .featured {\n    border: 3px solid #00D4FF;\n    padding: 1.5rem;\n    border-radius: 8px;\n    background: #e6f7ff;\n  }\n  .btn {\n    display: inline-block;\n    background-color: #0A2540;\n    color: white;\n    padding: 0.75rem 1.5rem;\n    text-decoration: none;\n    border-radius: 4px;\n    margin-top: 1rem;\n  }\n  footer {\n    background-color: #0A2540;\n    color: white;\n    text-align: center;\n    padding: 1rem;\n  }\n  @media (max-width: 768px) {\n    .logo {\n      font-size: 1.2rem;\n    }\n    h1 {\n      font-size: 2rem;\n    }\n    nav a {\n      margin-left: 1rem;\n    }\n  }\n</style>\n\n\n<header>\n  <nav>\n    <div class=\"logo\">机场测评</div>\n    <div>\n      <a href=\"#versions\">版本选择</a>\n      <a href=\"#download\">客户端下载</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </nav>\n</header>\n<main>\n  <h1>机场测评 | 机场订阅 VPN 网络加速 客户端下载 官网</h1>\n  <p>欢迎来到机场测评，您的优质VPN加速服务提供商。我们致力于为用户提供稳定高速的网络连接，帮助您轻松解锁全球内容，享受流畅的在线体验。</p>\n  <h2>核心优势</h2>\n  <p>机场测评采用先进技术，提供每月高速流量支持，支持多设备在线，解锁流媒体服务。无论是基础用户还是企业团队，我们都能满足您的需求。</p>\n  <h2>版本选择</h2>\n  <p>根据您的需求，选择最适合的版本：</p>\n  <div>\n    <div>\n      <h3>基础版</h3>\n      <p class=\"price\">¥15/月 | 按年付仅需 ¥150/年</p>\n      <ul>\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n      <a href=\"#versions\" class=\"btn\">选择基础版</a>\n    </div>\n    <div class=\"featured\">\n      <h3>旗舰版 <span>(推荐)</span></h3>\n      <p class=\"price\">¥35/月 | 按年付仅需 ¥350/年</p>\n      <ul>\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n      <a href=\"#versions\" class=\"btn\">选择旗舰版</a>\n    </div>\n    <div>\n      <h3>团队版</h3>\n      <p class=\"price\">¥85/月 | 按年付仅需 ¥850/年</p>\n      <ul>\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <a href=\"#versions\" class=\"btn\">选择团队版</a>\n    </div>\n  </div>\n  <h2>客户端选择与下载</h2>\n  <p>机场测评提供官方客户端下载，支持Windows、macOS、Android、iOS等主流平台。无论您使用哪种设备，都能轻松连接加速节点，享受稳定高速的网络体验。</p>\n  <a href=\"#versions\" class=\"btn\">查看版本选择</a>\n  <h2>使用指南</h2>\n  <ol>\n    <li>访问官网，选择适合的版本进行订阅</li>\n    <li>通过官网下载最新客户端</li>\n    <li>安装完成后，使用账号登录</li>\n    <li>选择节点连接，享受加速服务</li>\n    <li>如有疑问，联系支持团队</li>\n  </ol>\n  <h2>常见问题</h2>\n  <details>\n    <summary>什么是机场测评？</summary>\n    机场测评是一个专注于VPN网络加速的服务平台，提供多种版本的加速器，让用户轻松实现高速稳定的网络连接。</details>\n  <details>\n    <summary>如何选择版本？</summary>\n    基础版适合个人使用，旗舰版适合需要流媒体解锁的用户，团队版适合企业或多设备用户。</details>\n  <details>\n    <summary>客户端如何下载？</summary>\n    请访问官网，下载适用于Windows、Mac、Android和iOS等设备的最新客户端。</details>\n  <details>\n    <summary>支持哪些设备？</summary>\n    支持多台设备同时在线，包括电脑、手机、平板等。</details>\n  <details>\n    <summary>如何获得更多流量？</summary>\n    选择更高阶的版本或享受年付优惠，可获得更多高速流量。</details>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n  <p>© 机场测评 官网客户端下载 加速服务</p>\n</footer>\n\n",
+          "hash": "323fa1df562c32b1cb6120f0df296da9ca894a4ae29aacc5390bf41b20c849c9",
+          "seo": {
+            "title": "机场测评 | 机场订阅 VPN 网络加速 客户端下载 官网",
+            "keywords": "机场测评, 机场订阅, VPN, 网络加速, 加速器, 客户端下载",
+            "description": "机场测评提供专业的VPN网络加速服务，包括基础版、旗舰版、团队版。支持高速流量、流媒体解锁，官网客户端下载，帮助您畅享X机场网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xgnqc.cn",
+    "host": "p-19293bf503.xgnqc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d385b904efcea25f9065c77594764e7a7b443de8b94f6ffd98c58b070bab698b",
+    "sitemap.xml": "b49caa3743ea5b56b44e9b8084cbc26535faae75701f10e22c564d7b5d55d507",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d18b763c0232a3d05bf661628abca2fb09a4db69d728d180dbeee1db7bc0f8b4",
+    "robots.txt": "fb4d6012c22f3f090b31bd1cd0f893cf6696fb3c76614d858ab652a0e6c0d9da",
+    "7f19d5d1211cf55e800f3313a10be306.txt": "7af8fe7fb66eb16d6643f443e9c8add5e1550628a7ce5e18a2152302a427d9e3"
+  },
+  "revision": "bacb7cedf637d00a8dffd25e893b9fded89adf66baf04cc4324dab3f4a1e95d7"
+}
